@@ -1,5 +1,26 @@
 # 笔试题大全
 
+### 腾讯笔试题
+
+#### 两大数相加
+
+### 明源云笔试题
+
+#### 请使用正则表示式实现方法 numSplit，为任意数字添加千分位分隔符，注意参数校验
+
+```
+function formatNum(num) {
+  // (num.toFixed(2) + '') 保留两位小数
+  return num && num.toString().replace(/\d{1,3}(?=(\d{3})+(\.\d*)?$)/g, '$&,')
+}
+
+console.log(formatNum(-123456789.123456))
+```
+
+#### [LazyMan构造函数](https://github.com/miracle90/Interview-Question/blob/master/docs/lazyman.md)
+
+### shopee笔试题
+
 #### uncode 和utf 编解码的原理和不同
 
 #### base64和二进制的不同
