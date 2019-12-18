@@ -2,13 +2,15 @@
 
 ## 腾讯笔试题
 
-#### [实现EventEmitter](https://github.com/miracle90/Interview-Question/blob/master/docs/eventEmitter.md)
+* [实现EventEmitter](https://github.com/miracle90/Interview-Question/blob/master/docs/eventEmitter.md)
 
-#### [实现大整数加法](https://github.com/miracle90/Interview-Question/blob/master/docs/maxInt.md)
+* [实现大整数加法](https://github.com/miracle90/Interview-Question/blob/master/docs/maxInt.md)
+
+* [使用JS实现一个repeat方法，function repeat (fn, times, wait) {}，const repeatFunc = (alert, 4, 3000)，调用这个repeatFunc('Hello World')，会alert4次Hello World，每次间隔3秒](https://github.com/miracle90/Interview-Question/blob/master/docs/maxInt.md)
 
 ## 明源云笔试题
 
-#### 请使用正则表示式实现方法 numSplit，为任意数字添加千分位分隔符，注意参数校验
+* 请使用正则表示式实现方法 numSplit，为任意数字添加千分位分隔符，注意参数校验
 
 ```
 function formatNum(num) {
@@ -19,11 +21,11 @@ function formatNum(num) {
 console.log(formatNum(-123456789.123456))
 ```
 
-#### [LazyMan构造函数](https://github.com/miracle90/Interview-Question/blob/master/docs/lazyman.md)
+* [LazyMan构造函数](https://github.com/miracle90/Interview-Question/blob/master/docs/lazyman.md)
 
 ## shopee笔试题
 
-#### uncode 和utf 编解码的原理和不同
+* uncode 和utf 编解码的原理和不同
 
 #### base64和二进制的不同
 
