@@ -1,10 +1,12 @@
 # 笔试题大全
 
-### 腾讯笔试题
+## 腾讯笔试题
 
-#### 两大数相加
+#### [实现EventEmitter](https://github.com/miracle90/Interview-Question/blob/master/docs/eventEmitter.md)
 
-### 明源云笔试题
+#### [实现大整数加法](https://github.com/miracle90/Interview-Question/blob/master/docs/maxInt.md)
+
+## 明源云笔试题
 
 #### 请使用正则表示式实现方法 numSplit，为任意数字添加千分位分隔符，注意参数校验
 
@@ -19,7 +21,7 @@ console.log(formatNum(-123456789.123456))
 
 #### [LazyMan构造函数](https://github.com/miracle90/Interview-Question/blob/master/docs/lazyman.md)
 
-### shopee笔试题
+## shopee笔试题
 
 #### uncode 和utf 编解码的原理和不同
 
