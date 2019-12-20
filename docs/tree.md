@@ -21,14 +21,17 @@
 
       // console.log(temp)
       for (const i in temp) {
-        // 如果不是最高级
+        // 如果有爸爸
         if (temp[i].pid) {
           // 如果爸爸没儿子
           if (!temp[temp[i].pid].children) {
+            // 给爸爸赋值一个儿子对象
             temp[temp[i].pid].children = {}
           }
+          // 把自己赋值到儿子对象钟
           temp[temp[i].pid].children[i] = temp[i]
         } else {
+          // temp => tree
           tree[i] = temp[i]
         }
       }
