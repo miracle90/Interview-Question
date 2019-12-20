@@ -16,6 +16,8 @@
 
 * [LazyMan构造函数](https://github.com/miracle90/Interview-Question/blob/master/docs/lazyman.md)
 
+* [JavaScript将具有父子关系的原始数据格式化成树形结构数据(id,pid)](https://github.com/miracle90/Interview-Question/blob/master/docs/tree.md)
+
 ## shopee笔试题
 
 * 实现一个深拷贝***************************************************
